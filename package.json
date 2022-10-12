@@ -13,11 +13,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uu_appg01_server": "^5.0.0",
-    "decimal.js": "3.0.0"
+    "decimal.js": "3.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "uu_appg01_server": "^5.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.5.0",
+    "eslint": "^8.25.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1",
     "jest": "^27.4.7",
     "prettier": "^2.5.1"
   },
